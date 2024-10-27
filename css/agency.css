@@ -185,8 +185,8 @@ fieldset[disabled] .btn-xl.active {
 }
 header {
   text-align: center;
-  background-image: url('https://play-lh.googleusercontent.com/vcd8bDJwn-4NvvFQg1xVopxrkH9jWljQYNcKWwVv4PWeGvZI2cnc6NAZu5LJ2zji3B8=w3840-h2160-rw');
-  background-position: cover;
+  background-image: url('..//assets/header_img.jpg');
+  background-position: Center;
   color: white;
 
   /* #0c1b24 */
