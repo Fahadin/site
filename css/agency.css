@@ -185,7 +185,7 @@ fieldset[disabled] .btn-xl.active {
 }
 header {
   text-align: center;
-  background-image: url('..//assets/header_img.jpg');
+  background-image: url(..//assets/header_img.jpg);
   background-position: Center;
   color: white;
 
